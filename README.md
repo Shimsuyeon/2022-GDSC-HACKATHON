@@ -1,2 +1,4 @@
 # 2022-GDSC-HACKERTHON
 2022 GDSC KR WINTER HACKERTHON
+
+<img src="/LOGO/아름들기1.png" width="400"/>
